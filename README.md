@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A programming student from Brazil</h3>
 
-- 🔭 We are currently working on [IRONHIDE - #26956 (FTC)](https://instagram.com/ironhide.ftc)
+- 🔭 I'm are currently working on [IRONHIDE - #26956 (FTC)](https://instagram.com/ironhide.ftc)
 
-- 📫 How to reach us **danielnunesmedeiro0@gmail.com**
+- 📫 How to reach me **danielnunesmedeiro0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

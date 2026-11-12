@@ -34,7 +34,7 @@ Técnico em Desenvolvimento de Sistemas formado pelo **SESI SENAI**, com foco em
 
 ## 💼 Atuando agora
 
-Vertex (Sócio-fundador):
+**Vertex (Sócio-fundador):**
 - WebStudio de Design e Programação
 - Criação de sites, sistemas sob medida e landing pages
 - Github: [@studiovertex](https://github.com/studiovertex)

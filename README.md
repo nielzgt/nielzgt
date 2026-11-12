@@ -53,3 +53,4 @@ Estou montando meu portfólio. Os projetos principais aparecem nos repositórios
 
 - E-mail: [danielnunesmedeiros0@gmail.com](mailto:danielnunesmedeiros0@gmail.com)
 - WhatsApp: [+55 85 99235-6845](https://wa.me/5585992356845)
+- LinkedIn: [daniel-nunes-medeiros](https://www.linkedin.com/in/daniel-nunes-medeiros)
